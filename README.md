@@ -34,7 +34,7 @@ MenteSana/
 ## Instalación y Uso
 Clona este repositorio:
 
-```git clone [https://github.com/tu-usuario/mentesana.git](https://github.com/tu-usua```
+```https://github.com/Jesus-1205/Prototipo-Proyecto-MenteSana.git```
 
 Entra en la carpeta del proyecto:
 
